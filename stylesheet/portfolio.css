@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* Sets the font family of all h1 headings */
+    font-family: Bahnschrift, 'trebuchet MS', optima, palatino, sans-serif;
     text-align: center; 
     margin-top: 2%; 
     color: #17180f; 
@@ -17,7 +17,8 @@ h1:hover {
 }
 
 .white-text {
-    color: #fff; 
+    color: #fff;
+    font-size: 4em; 
 }
 
 .white-text:hover {
@@ -26,7 +27,7 @@ h1:hover {
 }
 
 p {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif Bold;
+    font-family:optima, palatino, sans-serif;
     text-align: justify; 
     letter-spacing: 1px; 
     font-size: 20px;
@@ -113,7 +114,7 @@ footer {
     color: white; 
     padding: 14px 16px; 
     text-decoration: none; 
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-family:Bahnschrift, 'trebuchet MS', optima, palatino, sans-serif; 
     font-size: 20px; 
     text-align: center; 
     position: relative;
@@ -222,8 +223,7 @@ input[type=text] {
     padding: 12px;
     border: 1px solid #ccc; 
     border-radius: 4px; 
-    box-sizing: border-box; 
-    margin-top: 1px; 
+    box-sizing: border-box;  
     margin-bottom: 16px; 
     resize: vertical;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
