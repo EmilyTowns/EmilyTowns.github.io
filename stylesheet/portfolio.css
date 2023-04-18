@@ -155,6 +155,7 @@ footer {
 
 /***** VIDEO STYLING *****/
 #leaves {
+    display: block;
     position: fixed;
     right: 0; 
     bottom: 0; 
